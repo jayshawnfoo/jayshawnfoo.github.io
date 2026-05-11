@@ -69,23 +69,6 @@ hr {
   margin: 20px 0;
 }
 
-/* makes it nicer on phone */
-@media (max-width: 768px) {
-  body {
-    flex-direction: column;
-    gap: 40px;
-    padding: 40px 24px;
-  }
-
-  .sidebar {
-    position: static;
-    width: auto;
-  }
-
-  main {
-    width: 100%;
-  }
-  
 /* profile image */
 .profile-img {
   width: 96px;
@@ -109,6 +92,13 @@ hr {
     position: static;
     width: auto;
   }
+
+  main {
+    width: 100%;
+  }
+  
+
+
 
   main {
     width: 100%;
