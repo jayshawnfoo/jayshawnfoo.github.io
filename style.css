@@ -32,6 +32,11 @@ body {
   background: #374151;
 }
 
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 main {
   width: 530px;
 }
