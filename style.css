@@ -87,10 +87,11 @@ hr {
   }
   
 .profile-img {
-  width: 80px;
-  height: 80px;
+  width: 96px;
+  height: 96px;
   object-fit: cover;
   border-radius: 50%;
   border: 1px solid #333;
-  margin-bottom: 18px;
+  margin-bottom: 20px;
+  display: block;
 }
