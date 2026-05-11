@@ -71,8 +71,8 @@ hr {
 
 /* profile image */
 .profile-img {
-  width: 120px;
-  height: 120px;
+  width: 96px;
+  height: 96px;
   object-fit: cover;
   border-radius: 50%;
   border: 1px solid #333;
