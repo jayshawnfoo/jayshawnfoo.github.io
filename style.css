@@ -86,12 +86,11 @@ hr {
     width: 100%;
   }
   
-}
 .profile-img {
-  width: 30px;
-  height: 30px;
+  width: 80px;
+  height: 80px;
   object-fit: cover;
   border-radius: 50%;
   border: 1px solid #333;
-  margin-bottom: 20px;
+  margin-bottom: 18px;
 }
